@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi! I'm Kacper
+## <h1>Hi! I'm Kacper</h1>
 
 And welcome to my profile on github :)
 
