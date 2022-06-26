@@ -1,8 +1,6 @@
 
 ## <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">A front end developer from Poland</h3>
-
-<p align="center">And welcome to my profile on github :)</p>
+<h3 align="center">Front End Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prodevdesign&label=Profile%20views&color=381584&style=flat" width="150" height="30" alt="prodevdesign" /> </p>
 
