@@ -2,7 +2,7 @@
 ## <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">Front End Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prodevdesign&label=Profile%20views&color=381584&style=flat" width="150" height="30" alt="prodevdesign" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prodevdesign&label=Profile%20views&color=381584&style=flat" width="170" height="30" alt="prodevdesign" /> </p>
 
 <div align="center">
   <a href="https://github.com/ProDevDesign/prodevdesign.github.io">
