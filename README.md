@@ -5,11 +5,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prodevdesign&label=Profile%20views&color=381584&style=flat" width="170" height="30" alt="prodevdesign" /> </p>
 
 <div align="center">
-  <a href="https://github.com/ProDevDesign/prodevdesign.github.io">
-    <img src="github-readme.png" alt="ProDevDesign - Github profile">
-  </a>
-
-
 
  ## <div align="left">
   
