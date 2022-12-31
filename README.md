@@ -9,11 +9,11 @@
  ## <div align="left">
   
   <ul align="left">
- <li>🔭 I’m currently working on: <a href="https://kacperpolarczyk.github.io/">Personal Portfolio</a></li>
+ <li>🔭 I’m currently working on: <a href="https://kacperpolarczyk.tech">Personal Portfolio</a></li>
 </br>
 <li>🌱 I’m currently learning <strong>Javascript</strong></li>
 </br>
-<li>👨‍💻 All of my projects will be available at <a href="https://prodevdesign.github.io/">KacperPolarczyk.me</a></li>
+<li>👨‍💻 All of my projects will be available at <a href="https://kacperpolarczyk.tech/">KacperPolarczyk.tech</a></li>
 </ul>
   
 <h3 align="left">Connect with me:</h3>
