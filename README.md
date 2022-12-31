@@ -13,7 +13,7 @@
 </br>
 <li>🌱 I’m currently learning <strong>Javascript</strong></li>
 </br>
-<li>👨‍💻 All of my projects will be available at <a href="https://kacperpolarczyk.tech/" target="_blank">KacperPolarczyk.tech</a></li>
+<li>👨‍💻 All of my projects will be available at <a href="[https://kacperpolarczyk.tech/projects" target="_blank">KacperPolarczyk.tech/Projects</a></li>
 </ul>
   
 <h3 align="left">Connect with me:</h3>
