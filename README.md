@@ -8,7 +8,7 @@
 <ul align="left">
  <li>🔭 I’m currently working on: <a href="https://kacperpolarczyk.tech" target="_blank">Portfolio</a></li>
 </br>
-<li>🌱 I’m currently learning <strong>Javascript</strong></li>
+<li>🌱 I’m currently learning <strong>C#</strong> and <strong>SQL</strong></li>
 </br>
 <li>👨‍💻 All of my projects will be available at <a href="https://kacperpolarczyk.tech/projects" target="_blank">KacperPolarczyk.tech/Projects</a></li>
 </ul>
@@ -63,8 +63,8 @@
 <br />
 
 <li>
-<a href="https://discord.gg/MasterCode#0001" target="_blank">
-<img src="https://img.shields.io/badge/discord:  MasterCode 0001-%2300acee.svg?color=7289da&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://discord.gg/MasterCode#5341" target="_blank">
+<img src="https://img.shields.io/badge/discord:  MasterCode 5341-%2300acee.svg?color=7289da&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 	
